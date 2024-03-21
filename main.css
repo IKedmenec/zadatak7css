@@ -38,3 +38,11 @@ a:visited {
 a:active {
     color:blue
 }
+
+.cel2 {
+    background-color: yellow;
+}
+
+.cel2:hover {
+    background-color: red;
+}
